@@ -1,1 +1,10 @@
 /* Add CSS Styling */
+.odd{
+    background-color: rgb(197, 99, 99);
+    font-family: verdana, DejaVu Sans, sans-serif;
+}
+#dois{
+    color: #0000ff;
+    font-size: 36px;
+
+}
