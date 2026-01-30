@@ -1,11 +1,15 @@
 /* Add CSS Styling */
 .botaopreto{
+    background-color: black;
+    color: white;
 
 }
 .botaoamarelo{
+    background-color: yellow;
+    color: black;
 
 }
 
 .ambos{
-    
+
 }
